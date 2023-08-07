@@ -1,2 +1,9 @@
 # RNN-LSTM-SLR
 RNN-LSTM Weights Initialization and Optimization Techniques: A Systematic Literature Review
+
+**Abstract**
+<br>Long Short-Term Memory (LSTM) is a popular algorithm known for its ability to effectively analyze and process sequential data with long-term dependencies. However, LSTM models often face challenges during training, hindering their learning capacities and resulting in reduced prediction accuracy, especially in tasks involving long-term dependencies. This study presents a systematic literature review (SLR) with an in-depth four-step approach using the PRISMA methodology to include studies concerning the initialization and optimization of RNN-LSTM weights. A systematic search was conducted in numerous scientific databases and venues that identified 1440 peer-reviewed articles (95 selected), published between 2018 and 2023. The key motivation behind this SLR is to explore and synthesize the vast array of optimization algorithms employed for hyper-parameters and parameters optimization, specifically concerning network weights in LSTM-based models. By identifying 42 different optimization algorithms and categorizing them into five main groups: adaptive learning rate, gradient descent-based, metaheuristic, boosting, and other algorithms, this review unveils the wide spectrum of approaches used to improve LSTM performance. Furthermore, the importance of this SLR lies in its comprehensive coverage of 11 distinct application domains where LSTM models are utilized. Understanding how these optimization techniques influence LSTM performance across various domains is crucial for researchers and practitioners seeking to enhance their models' capabilities and achieve superior results. This SLR stands out from others by delving deeply into the specific problems and challenges of LSTM-based networks and providing a systematic analysis of the optimization landscape.
+
+
+
+Our Excel file is included in this repo.
