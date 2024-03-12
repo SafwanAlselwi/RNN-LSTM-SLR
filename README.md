@@ -11,13 +11,6 @@ Long Short-Term Memory (LSTM) networks are pivotal in processing sequential data
 * Comprehensively surveys the different optimization algorithms used in optimizing RNN-LSTM networks.
 * Identified the current dominated techniques and tools in LSTM models development, including the preferred and most used programming languages and the most used evaluation metrics.
 
-**Research Questions**
-* **RQ1:** What are the current applications and domains into which LSTM networks are used?
-* **RQ2:** What are the current techniques and tools used to build the LSTM models?
-* **RQ3:** What are the weights initialization techniques used in LSTM networks?
-* **RQ4:** What are the weights optimization techniques used in LSTM networks?
-* **RQ5:** What is the intensity of publications related to LSTM?
-
 **Data Availability**
 <br>
 The Microsoft Excel file utilized for this systematic literature review will be made publicly accessible in this repository following the acceptance of our manuscript.
