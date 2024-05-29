@@ -31,8 +31,7 @@ Long Short-Term Memory (LSTM) networks are pivotal in processing sequential data
     <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1319157824001575-gr12_lrg.jpg" width="350">
 </div>
 
-## Please consider a citation:
-<br>
+## Please consider citing our work, if you use our template or methodology:
 S. M. Al-Selwi, M. F. Hassan, S. J. Abdulkadir, A. Muneer, E. H. Sumiea, A. Alqushaibi, and M. G. Ragab, "RNN-LSTM: From applications to modeling techniques and beyond—Systematic review," Journal of King Saud University - Computer and Information Sciences, vol. 36, no. 5, 2024, Art. no. 102068. doi: https://doi.org/10.1016/j.jksuci.2024.102068.
 <br>
 
@@ -53,7 +52,11 @@ url = {https://www.sciencedirect.com/science/article/pii/S1319157824001575}
 ```
 
 ## Data Availability
-The Microsoft Excel file utilized for this systematic literature review will be made publicly accessible in this repository following the acceptance of our manuscript.
+The Microsoft Excel file utilized for this systematic literature review is available in this repository.
 
+<p>
+Safwan Mahmood Al-Selwi
+<br> Corresponding author
+</p>
 
 Thank you
