@@ -1,4 +1,8 @@
-# RNN-LSTM: From Applications to Modeling Techniques and Beyond - Systematic Review
+# <a href="https://doi.org/10.1016/j.jksuci.2024.102068" target="_blank">RNN-LSTM: From Applications to Modeling Techniques and Beyond - Systematic Review</a>
+
+---
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3620960.svg)](https://doi.org/10.1016/j.jksuci.2024.102068)
 
 <p style="text-align: justify;">
 Long Short-Term Memory (LSTM) networks are pivotal in processing sequential data with long-term dependencies. Despite their popularity, the challenge of effectively initializing and optimizing LSTM models persists, often hindering model performance and accuracy. This study systematically reviews the breadth of literature to answer how weight initialization and optimization techniques can be used to bolster LSTM performance. Utilizing the PRISMA methodology, 95 peer-reviewed articles spanning 2018-2023 are analyzed. Our analysis encompasses numerous modeling techniques, offering a comprehensive overview across various application domains. This paper stands out by comprehensively analyzing modeling techniques, datasets, evaluation metrics, programming languages, and the diverse applications and domains of LSTM networks. Our findings provide a roadmap for researchers and practitioners to enhance LSTM networks and achieve superior results.
@@ -54,9 +58,10 @@ url = {https://www.sciencedirect.com/science/article/pii/S1319157824001575}
 ## Data Availability
 The Microsoft Excel file utilized for this systematic literature review is available in this repository.
 
-<p>
-Safwan Mahmood Al-Selwi
-<br> Corresponding author
-</p>
+---
+
+
+Corresponding author [Safwan Mahmood Al-Selwi](mailto:saf1.alselwi@gmail.com?Subject=RNN_LSTM_SLR) @ 2024
+
 
 Thank you
