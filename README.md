@@ -58,7 +58,9 @@ url = {https://www.sciencedirect.com/science/article/pii/S1319157824001575}
 ```
 
 ## Data Availability
-The Microsoft Excel file utilized for this systematic literature review is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/RNN-LSTM-SLR-SAF1.xlsm"> this link</a>.
+The Microsoft Excel file utilized for this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/RNN-LSTM-SLR-SAF1.xlsm"> this link</a>.
+
+The Python code used to generate the figures of this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/plotly_charts_saf1.ipynb"> this link</a>.
 
 ---
 
