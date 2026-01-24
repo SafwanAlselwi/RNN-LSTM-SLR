@@ -62,6 +62,8 @@ The Microsoft Excel file utilized for this SLR is publicly available at <a href=
 
 The Python code used to generate the figures of this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/plotly_charts_saf1.ipynb"> this link</a>.
 
+A full step-by-step guide on how to conduct a systematic review is available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/Conducting%20Systematic%20Literature%20Reviews%20Hands-On%20Workshop%20for%20Researchers.pdf"> this link</a>.
+
 ---
 
 
