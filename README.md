@@ -37,7 +37,30 @@ Long Short-Term Memory (LSTM) networks are pivotal in processing sequential data
     <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1319157824001575-gr12_lrg.jpg" width="350">
 </div>
 
-## Please consider citing our work, if you use our template or methodology:
+---
+
+## Data Availability
+The Microsoft Excel file utilized for this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/RNN-LSTM-SLR-SAF1.xlsm"> this link</a>.
+
+The Python code used to generate the figures of this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/plotly_charts_saf1.ipynb"> this link</a>.
+
+A full step-by-step guide on how to conduct a systematic review is available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/Conducting%20Systematic%20Literature%20Reviews%20Hands-On%20Workshop%20for%20Researchers.pdf"> this link</a>.
+
+---
+
+## Papers that explicitly followed / adopted our SLR methodology:
+* Abdullahi, S., & et al. (2026). The rise of hallucination in large language models: systematic reviews, performance analysis and challenges. Cluster Computing, 29(2), 124.
+* Al-haimi, B., & et al. (2025). Digital transformation in the real estate industry: A systematic literature review of current technologies, benefits, and challenges. International Journal of Information Management Data Insights, 5(1), 100340.
+* Atta, M. R., & et al. (2025). Artificial Intelligence and Machine Learning in Thermodynamic Gas Hydrate Studies: A Review. Energy & Fuels, 39(38), 18287-18310.
+* Alghurabi, A., & et al. (2025). A systematic review of material erosion prediction techniques: Incorporating model parameters variability and the lack of field-scale representation. Results in Engineering, 107194.
+* Fayyaz, A. M., & et al. (2025). Grad-CAM (Gradient-weighted Class Activation Mapping): A systematic literature review. Computers in Biology and Medicine, 198, 111200.
+* Hassan, S. U., & et al. (2025). Local interpretable model-agnostic explanation approach for medical imaging analysis: A systematic literature review. Computers in Biology and Medicine, 185, 109569.
+* Yalli, J. S., & et al. (2025). Authentication schemes for Internet of Things (IoT) networks: A systematic review and security assessment. Internet of Things, 30, 101469.
+* Abdullahi, M., & et al. (2025). A Systematic Literature Review of Concept Drift Mitigation in Time-Series Applications. IEEE Access.
+* Sumiea, E. H., & et al. (2024). Deep deterministic policy gradient algorithm: A systematic review. Heliyon, 10(9).
+* <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=292923029066970322" target="_blank">Read more</a>
+
+## So please consider citing our work, if you use our template or methodology:
 S. M. Al-Selwi, M. F. Hassan, S. J. Abdulkadir, A. Muneer, E. H. Sumiea, A. Alqushaibi, and M. G. Ragab, "RNN-LSTM: From applications to modeling techniques and beyond—Systematic review," Journal of King Saud University - Computer and Information Sciences, vol. 36, no. 5, 2024, Art. no. 102068. doi: https://doi.org/10.1016/j.jksuci.2024.102068.
 <br>
 
@@ -56,16 +79,7 @@ doi = {https://doi.org/10.1016/j.jksuci.2024.102068},
 url = {https://www.sciencedirect.com/science/article/pii/S1319157824001575}
 }
 ```
-
-## Data Availability
-The Microsoft Excel file utilized for this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/RNN-LSTM-SLR-SAF1.xlsm"> this link</a>.
-
-The Python code used to generate the figures of this SLR is publicly available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/plotly_charts_saf1.ipynb"> this link</a>.
-
-A full step-by-step guide on how to conduct a systematic review is available at <a href="https://github.com/SafwanAlselwi/RNN-LSTM-SLR/blob/main/Conducting%20Systematic%20Literature%20Reviews%20Hands-On%20Workshop%20for%20Researchers.pdf"> this link</a>.
-
 ---
-
 
 Corresponding author [Safwan Mahmood Al-Selwi](mailto:saf1.alselwi@gmail.com?Subject=RNN_LSTM_SLR) @ 2024
 
